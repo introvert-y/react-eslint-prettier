@@ -1,5 +1,5 @@
 module.exports = {
-  extends: "airbnb",
+  extends: ["airbnb", "plugin:prettier/recommended"],
   rules: {
     "react/jsx-filename-extension": "off",
     "react/forbid-prop-types": "off",
@@ -14,5 +14,5 @@ module.exports = {
   },
   env: {
     browser: true
-  },
+  }
 };
