@@ -1,5 +1,5 @@
-## yarn start
+## yarn/ npm install 安装依赖
 
-### 启动项目
+### yarn start / npm run start 启动项目
 
-## eslint airbnb + prettierrc, vsCode 需要安装 editoreConfig 插件
+## vsCode 需要安装 editoreConfig 插件

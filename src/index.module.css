@@ -1,0 +1,7 @@
+.pink_color {
+  color: pink;
+}
+
+:global(.title) {
+  background-color: green;
+}
