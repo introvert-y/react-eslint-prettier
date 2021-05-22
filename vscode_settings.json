@@ -1,0 +1,21 @@
+{
+  "workbench.editor.enablePreview": true,
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.fontSize": 17,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": false,
+  "eslint.options": {
+    "extensions": [".js", ".ts", ".tsx"]
+  },
+  "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
+}
