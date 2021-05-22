@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src --fix",
-    "format": "npm run lint && pretty-quick --staged"
+    "format": "pretty-quick --staged && npm run lint "
   },
   "husky": {
     "hooks": {
